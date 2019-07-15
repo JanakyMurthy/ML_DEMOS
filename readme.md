@@ -6,7 +6,7 @@ quickly familiar with some useful and popular libraries.
 
 *Target libraries*: Tensorflow, Keras
 
-2. [Fashion MNIST Classifier with neural network](DL_MODELS/fashion_mnist.py) - A hello world tensorflow program. 
+2. [Fashion MNIST Classifier with neural network](DL_MODELS/fashion_mnist_classifier.py) - A hello world tensorflow program. 
 
 *Target libraries*: PyTorch
 4. Computer Vision - YOLO Algorithm
