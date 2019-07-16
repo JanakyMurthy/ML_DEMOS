@@ -1,4 +1,10 @@
-from __future__ import absolute_import, division, print_function, unicode_literals
+#!/usr/bin/env python
+
+'''
+fashion_mnist_classifier.py - Implemented a fully connecte
+                              feed forward network using tensorflow 
+                              to classify the Fashion MNIST data set
+'''
 
 # TensorFlow and tf.keras
 import tensorflow as tf
