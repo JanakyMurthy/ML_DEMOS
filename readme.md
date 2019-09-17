@@ -8,7 +8,7 @@ quickly familiar with some useful and popular libraries.
 
 2. [Fashion MNIST Classifier with neural network](fashion_mnist_classifier.py) - A fully connected feed forward neural network implemented with TensorFlow to classify Fashion MNIST dataset. Based on the official tutorial from the Tensorflow documentation. ([Results](FASHION_MNIST_RESULT_SAMPLE_OUTPUT.JPG))
 
-3. [MNIST Classifier with neural network](mnist.py) - A Convoluted Neural Network implemented with TensorFlow to classify the MNIST dataset. ([Results](DL_models/MNIST_RESULT_SAMPLE_OUTPUT.JPG))
+3. [MNIST Classifier with neural network](mnist.py) - A Convolutional Neural Network implemented with TensorFlow to classify the MNIST dataset. ([Results](DL_models/MNIST_RESULT_SAMPLE_OUTPUT.JPG))
 
 *Target libraries*: PyTorch
 
